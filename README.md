@@ -6,9 +6,9 @@ authentication and common middlewares.
 ## Installation
 
 1. [Download](../../archive/master.zip) this template.
-1. Move the .zip file to your `sei/projects/` directory and Unzip it (creating a
+1. Move the .zip file to your project directory and Unzip it (creating a
    folder) -- **NOTE:** if the folder was already unzipped, use the `mv` command
-   line to move it to the `sei/projects/` directory.
+   line to move it to the project directory.
 1. Rename the directory from custom-express-template -> your-app-name.
 1. Empty [`README.md`](README.md) and fill with your own content.
 1. Move into the new project and `git init`.
@@ -52,10 +52,6 @@ You probably will only need to interact with files in `app/models`,
 to change the name of your app.
 
 ## Tasks
-
-Instead of `grunt`, this template uses `npm` as a task runner. This is more
-conventional for modern Express apps, and it's handy because we'll definitely
-use `npm` anyway. These are the commands available:
 
 | Command                | Effect                                                                                                      |
 |------------------------|-------------------------------------------------------------------------------------------------------------|
