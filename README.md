@@ -1,5 +1,4 @@
-
-# express-api-template
+# custom-express-template
 
 A template for starting projects with `express` as an API. Includes
 authentication and common middlewares.
@@ -10,10 +9,10 @@ authentication and common middlewares.
 1. Move the .zip file to your `sei/projects/` directory and Unzip it (creating a
    folder) -- **NOTE:** if the folder was already unzipped, use the `mv` command
    line to move it to the `sei/projects/` directory.
-1. Rename the directory from express-api-template -> your-app-name.
+1. Rename the directory from custom-express-template -> your-app-name.
 1. Empty [`README.md`](README.md) and fill with your own content.
 1. Move into the new project and `git init`.
-1. Replace all instances of `'express-api-template'` with your app name.
+1. Replace all instances of `'custom-express-template'` with your app name.
 1. Install dependencies with `npm install`.
 1. Ensure that you have `nodemon` installed by running `npm install -g nodemon`.
 1. Ensure the API is functioning properly by running `npm run server`.
